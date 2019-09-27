@@ -8,7 +8,7 @@ vue新人的第一个项目，如果对您有帮助，您可以点右上角 的"
 
 项目运行（nodejs 6.0+）
 # 克隆到本地
-git clone https://github.com/Oudanlu/AnswerDemo.git
+git clone https://github.com/Oudanlu/vue3-Answer.git
 
 # 进入文件夹
 cd vue3-ans
@@ -26,14 +26,14 @@ npm run build
 
 #项目运行部分截图
 
-![Image text](https://raw.githubusercontent.com/Oudanlu/AnswerDemo/master/src/assets/images/%E6%8D%95%E8%8E%B71.PNG)
+![Image text](https://raw.githubusercontent.com/Oudanlu/vue3-Answer/master/src/assets/images/%E6%8D%95%E8%8E%B71.PNG)
 
 
-![Image text](https://raw.githubusercontent.com/Oudanlu/AnswerDemo/master/src/assets/images/%E6%8D%95%E8%8E%B722.PNG)
+![Image text](https://raw.githubusercontent.com/Oudanlu/vue3-Answer/master/src/assets/images/%E6%8D%95%E8%8E%B722.PNG)
 
 #项目运行动图
 
-![Image text](https://raw.githubusercontent.com/Oudanlu/AnswerDemo/master/src/assets/images/vuedemo.gif)
+![Image text](https://raw.githubusercontent.com/Oudanlu/vue3-Answer/master/src/assets/images/vuedemo.gif)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
